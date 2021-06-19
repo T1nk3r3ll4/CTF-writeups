@@ -1,0 +1,22 @@
+# crypto/queen-of-the-hill
+### wooshi
+
+## Description
+
+After finding a special key of the Hill, which contains a note to visit the Queen of the Hill, our brave Amanda begins her adventure to find the Queen of the Hill’s treasure. How shall she meet the Queen of the Hill?
+Cipher text: rtca{vbuhp_kaiq_gfj_nx_rda_ujw}
+Encryption key:
+16 25 8
+14 19 5
+15 17 3
+
+## Solution
+https://www.dcode.fr/hill-cipher
+![Alt text](images/crypto-queenofthehill?raw=true "crypto/queen-of-the-hill")
+[crytpo-queenofthehill.png](images/crytpo-queenofthehill.png.png)
+<img src="images/crytpo-queenofthehill.png" width="50%" height="50%">
+> flag{climb_your_way_to_the_top}
+
+## How would I figure this out next time without being told the answer?
+The name of the challenge gave us a hint. Go to this website https://www.dcode.fr/en and search "queen" or "hill". There are a couple for "queen" and one for "hill". After looking at each of them, you will find your answer using the Hill Cipher.
+[insert hint image]
