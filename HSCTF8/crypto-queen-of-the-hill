@@ -12,11 +12,12 @@ Encryption key:
 
 ## Solution
 https://www.dcode.fr/hill-cipher
-![Alt text](images/crypto-queenofthehill?raw=true "crypto/queen-of-the-hill")
-[crytpo-queenofthehill.png](images/crytpo-queenofthehill.png.png)
-<img src="images/crytpo-queenofthehill.png" width="50%" height="50%">
+  
+<kbd>![Solution: crypto/queen-of-the-hill](https://github.com/T1nk3r3ll4/hsctf8/blob/main/images/crytpo-queenofthehill.png)</kbd>
+  
 > flag{climb_your_way_to_the_top}
 
 ## How would I figure this out next time without being told the answer?
 The name of the challenge gave us a hint. Go to this website https://www.dcode.fr/en and search "queen" or "hill". There are a couple for "queen" and one for "hill". After looking at each of them, you will find your answer using the Hill Cipher.
-[insert hint image]
+  
+<kbd>![Hint: crypto/queen-of-the-hill](https://github.com/T1nk3r3ll4/hsctf8/blob/main/images/crypto-queenofthehill-hint.png)</kbd>
