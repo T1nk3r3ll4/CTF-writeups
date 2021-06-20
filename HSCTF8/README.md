@@ -2,6 +2,8 @@
 ## A CTF run by high schoolers for high schoolers
 ### (I am not a high schooler, but it was good practice :))
 
+https://ctf.hsctf.com/
+
 This was the first CTF I ever did with another person, [@techguyrikz](https://twitter.com/techguyrikz). It was fun having someone to discuss the challenges with! This was a 5 day long CTF, but we only joined in the last couple hours before it ended. While we did not have time to finish a lot of the challenges, we did manage to solve 8 (although some were freebies that I did not include in this writeup).
 
 <kbd>![Flags captured](https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/HSCTF8/images/hsctf8_flags.png)</kbd>
