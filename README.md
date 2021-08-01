@@ -4,8 +4,12 @@ These writeups do not include every challenge. The writeups are intended to be d
 
 ## 2021
 
-### June
+#### June
 - [HSTCTF8](HSCTF8)
+  - Team: [T1nk3r3ll4](https://twitter.com/T1nk3r3ll4) & [@techguyrikz](https://twitter.com/techguyrikz)
+  - Solved: 8/50
 
-### July
-- [Hacky Holidays](Hacky Holidays)
+#### July
+- [Hacky Holidays](Hacky_Holidays)
+  - Team: [T1nk3r3ll4](https://twitter.com/T1nk3r3ll4), [ravirajpowar](https://twitter.com/ravirajpowar), [@jaymiee__](https://twitter.com/jaymiee__) & [@techguyrikz](https://twitter.com/techguyrikz)
+  - Points: 775 
