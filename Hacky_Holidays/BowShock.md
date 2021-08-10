@@ -19,6 +19,8 @@ I am glad I didn't try brute forcing this... since it would not have given me th
 
 <kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/bowshock_discord3.png"></kbd>
 
+<kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/bowshock_decompiled.png"></kbd>
+
 <kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/bowshock_discord4.png"></kbd>
 
 <kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/bowshock_discord5.png"></kbd>
