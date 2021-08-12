@@ -65,7 +65,35 @@ We find a line of code that tells us Docker will not name the container "boring_
 
 <kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/space_snacks_q6.png"></kbd>
 
+I am not familiar with this code so let's work through this piece by piece, starting with time(0). 
 
+<kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/space_snacks_q6_solve1.png"></kbd>
+
+I Googled "time()" and found that the this function returns the time since the Epoch measured in seconds. We have to remember though that this event happened at January 1, 2030 11:23:45 AM, therefore, we have to do a calculation:
+
+<kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/space_snacks_q6_solve2.png"></kbd>
+
+Then convert that into seconds:
+
+<kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/space_snacks_q6_solve3.png"></kbd>
+
+With a bit more Googling and using an Online C Compiler website, the Debug button, and the errors, I figured out that I need to add
+"#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>"
+to the top of the code and it was missing a main() somewhere.
+
+<kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/space_snacks_q6_solve4.png"></kbd>
+
+I was lost after this though and did not find the flag before the end of the challenge. I Googled other write ups and watched videos though. I will add my screenshots here so I can refer back to them next time I come across a similar question and hopefully be able to take my example here and learn from it.
+
+<kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/space_snacks_q6_solve5.png"></kbd>
+
+<kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/space_snacks_q6_solve6.png"></kbd>
+
+<kbd><img width="700" src="https://github.com/T1nk3r3ll4/CTF-writeups/blob/main/Hacky_Holidays/images/space_snacks_q6_solve7.png"></kbd>
+
+> 1376299761
 
 ## Question #7
 
